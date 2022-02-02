@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I love building things, solving problems, and telling stories that inspire.
+
+I'm open to web design, mobile app design, and front end web development projects and opportunities.
+
 <!--
 **VishalLudhrani/vishalludhrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
