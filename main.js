@@ -1,5 +1,11 @@
 const projects = [
   {
+    title: "Quick Poll",
+    imgURL: "./images/quick-poll.png",
+    description: "A quick, open poll creator. View your poll results live. No limit on number of questions per poll. No need to sign up.",
+    link: "https://quick-poll-react.netlify.app"
+  },
+  {
     title: "Headlines - News on the go",
     imgURL: "./images/headlines-newsapp.png",
     description: "A simple news web app which helps busy professionals keep updated with news by reading just headlines. No articles, no temptation to read further, no time wasted.",
